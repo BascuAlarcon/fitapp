@@ -1,0 +1,90 @@
+*{
+    font-family: 'georgia';
+}
+
+.text-style-1{
+    color: #d4e2d4;
+}
+
+.text-style-2{
+    color: black;
+}
+
+.navbar-style-1{
+    background-color: #423144;
+}
+
+.body-style-1{
+    background-color: #f0ece3;
+}
+
+.container-card{
+    background-color: gray;
+}
+
+.container-style-1{
+    background-color: #931a25;
+}
+
+.container-style-2{
+    background-color: #423144;
+}
+
+
+/* CAROUSEL */
+
+.carousel-img{
+    height: 500px;
+    width: 500px;
+    
+}
+
+/* EDITAR PRODUCTOS */
+.container-edit{
+    border-radius: 1em;
+    background-color: red;
+}
+
+/* Background Colors */
+
+.background-color-1{
+    background-color: #222831;
+}
+
+.background-color-2{
+    background-color: #f4f4f2;
+}
+
+.background-color-3{
+    background-color: #e7d9ea;
+}
+
+/* TEXT */
+.text-title{
+    font-size: 28px;
+    text-align: center;
+}
+
+.text-subtitle{
+    background-color: #a6a9b6;
+}
+
+.text-subtitle:hover{
+    background-color: blue;
+}
+
+.items-navbar{
+    font-size: 20px;
+}
+
+/* Buttons */
+.button-guardar{
+    background-color: #3797a4;
+    height: 50px;
+}
+
+/* Cards */
+.card-productos{
+    background-color: gray;
+    height: 340px;
+}
